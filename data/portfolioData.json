@@ -1,0 +1,682 @@
+{
+  "profile": {
+    "name": "Hector Rivera",
+    "description": "Frontend developer and UI/UX designer focused on building clear, functional, and scalable digital products. Turning complex ideas into thoughtful interfaces with strong visual systems and solid frontend architecture."
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hector-rivera",
+      "icon": "linkedin",
+      "ariaLabel": "Visit Hector Rivera on LinkedIn"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/hectorrivera",
+      "icon": "dribbble",
+      "ariaLabel": "Visit Hector Rivera on Dribbble"
+    },
+    {
+      "platform": "Behance",
+      "url": "https://www.behance.net/hectorrivera",
+      "icon": "behance",
+      "ariaLabel": "Visit Hector Rivera on Behance"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/hectorrivera",
+      "icon": "github",
+      "ariaLabel": "Visit Hector Rivera on GitHub"
+    }
+  ],
+  "sections": {
+    "experienceTitle": "Experience",
+    "featuredProjectsTitle": "Featured Projects",
+    "secondaryProjectsTitle": "More Projects",
+    "openProjectLabel": "Open project"
+  },
+  "location": {
+    "label": "Based In",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "coordinates": {
+      "lat": 13.9942,
+      "lng": -89.5597
+    },
+    "zoom": 12
+  },
+  "stackTools": {
+    "title": "Stack & Tools",
+    "developer": [
+      {
+        "name": "React Vite",
+        "icon": "react",
+        "ariaLabel": "React Vite"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript",
+        "ariaLabel": "TypeScript"
+      },
+      {
+        "name": "Next.js",
+        "icon": "nextjs",
+        "ariaLabel": "Next.js"
+      },
+      {
+        "name": "Astro",
+        "icon": "nextjs",
+        "ariaLabel": "Astro"
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "tailwindcss",
+        "ariaLabel": "Tailwind CSS"
+      },
+      {
+        "name": "Sass",
+        "icon": "tailwindcss",
+        "ariaLabel": "  Sass"
+      }
+    ],
+    "designer": [
+      {
+        "name": "Figma",
+        "icon": "figma",
+        "ariaLabel": "Figma"
+      },
+      {
+        "name": "Illustrator",
+        "icon": "illustrator",
+        "ariaLabel": "Adobe Illustrator"
+      },
+      {
+        "name": "Framer",
+        "icon": "framer",
+        "ariaLabel": "Framer"
+      },
+      {
+        "name": "Blender",
+        "icon": "framer",
+        "ariaLabel": "Blender"
+      },
+      {
+        "name": "Photoshop",
+        "icon": "framer",
+        "ariaLabel": "Photoshop"
+      },
+      {
+        "name": "Affinity",
+        "icon": "framer",
+        "ariaLabel": "Affinity"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "startDate": "Jul 2025",
+      "endDate": "Present",
+      "role": "Frontend Developer (React)",
+      "company": "AVIANCA LifeMiles",
+      "description": "Building flows, reusable UI patterns, and scalable architecture across loyalty product experiences."
+    },
+    {
+      "startDate": "Jan 2025",
+      "endDate": "Jul 2025",
+      "role": "Frontend Developer (React) | UI/UX Designer",
+      "company": "Conexion El Salvador",
+      "description": "Designed and implemented digital experiences with an emphasis on accessibility, and component structure."
+    },
+    {
+      "startDate": "Sep 2024",
+      "endDate": "Nov 2024",
+      "role": "Frontend Developer (React)",
+      "company": "Iluminodes",
+      "description": "Delivered polished product interfaces while refining visual consistency and interaction details."
+    },
+    {
+      "startDate": "Feb 2023",
+      "endDate": "Sep 2023",
+      "role": "Frontend Developer (C#) | UI/UX Designer",
+      "company": "Colegio Salarrue",
+      "description": "Worked on internal tools, translating product needs into structured UI systems and usable flows."
+    },
+    {
+      "startDate": "Feb 2022",
+      "endDate": "Aug 2022",
+      "role": "Frontend Developer (Java) | UI/UX Designer",
+      "company": "Cellworld",
+      "description": "Supported web interface design, frontend implementation, and iterative UI improvements."
+    }
+  ],
+  "featuredStudyCase": {
+    "label": "Featured Study Case",
+    "title": "Alexandria",
+    "year": "2026",
+    "category": "UI/UX, Frontend Development",
+    "icon": "",
+    "href": "https://example.com/projects/alexandria",
+    "imageAlt": "Alexandria project thumbnail.",
+    "description": "Minimalist note-taking tool."
+  },
+  "featuredProjects": [
+    {
+      "title": "Typo",
+      "year": "2025",
+      "category": "Frontend",
+      "icon": "/images/portfolio/typo.svg",
+      "href": "https://typo-nu.vercel.app/",
+      "imageAlt": "Typo project thumbnail."
+    },
+    {
+      "title": "Silver Voluntarios",
+      "year": "2025",
+      "category": "UI/UX",
+      "icon": "/images/portfolio/silver-voluntarios.svg",
+      "href": "https://example.com/projects/silver-voluntarios",
+      "imageAlt": "Silver Voluntarios project thumbnail."
+    },
+    {
+      "title": "Cabuda",
+      "year": "2025",
+      "category": "UI/UX",
+      "icon": "/images/portfolio/cabuda.svg",
+      "href": "https://example.com/projects/cabuda",
+      "imageAlt": "Cabuda project thumbnail."
+    }
+  ],
+  "secondaryProjects": [
+    {
+      "title": "Auralis",
+      "year": "2026",
+      "category": "Social Media Design",
+      "icon": "/images/portfolio/auralis.svg",
+      "href": "https://www.behance.net/gallery/245826079/Auralis-2026-Social-Media-Design",
+      "imageAlt": "Auralis project thumbnail."
+    },
+    {
+      "title": "Commonplace",
+      "year": "2025",
+      "category": "UI/UX",
+      "icon": "/images/portfolio/commonplace.svg",
+      "href": "https://example.com/projects/commonplace",
+      "imageAlt": "Commonplace project thumbnail."
+    }
+  ],
+  "designGallery": {
+    "title": "Design Gallery",
+    "subtitle": "Selected visual explorations, interface studies, and brand work.",
+    "items": [
+      {
+        "id": "a4-page-design",
+        "title": "A4 Page Design",
+        "category": "Editorial Design",
+        "image": "/images/gallery/a4-page-design.png",
+        "alt": "Editorial A4 page design with a structured print-inspired composition.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "admin-dashboard-day",
+        "title": "Admin Dashboard Day",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/admin-dashboard-day.png",
+        "alt": "Admin dashboard interface in day mode with a clean data-focused layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "admin-dashboard-night",
+        "title": "Admin Dashboard Night",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/admin-dashboard-night.png",
+        "alt": "Admin dashboard interface in night mode with a modern dark data-focused layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "alexandria-bento-01",
+        "title": "Alexandria Bento",
+        "category": "UI/UX Design",
+        "image": "/images/gallery/alexandria-bento-01.png",
+        "alt": "Alexandria portfolio bento layout with modular cards and a minimal editorial structure.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "alexandria-beta-landing",
+        "title": "Alexandria Beta Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/alexandria-beta-landing.png",
+        "alt": "Alexandria beta landing page design with a polished product-focused visual system.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "alexandria-import-file-modal",
+        "title": "Alexandria Import File Modal",
+        "category": "UI Component",
+        "image": "/images/gallery/alexandria-import-file-modal.png",
+        "alt": "Alexandria file import modal design for a structured product workflow.",
+        "featured": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "id": "alexandria-settings-modal",
+        "title": "Alexandria Settings Modal",
+        "category": "UI Component",
+        "image": "/images/gallery/alexandria-settings-modal.png",
+        "alt": "Alexandria settings modal design with clean controls and a minimal interface.",
+        "featured": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "id": "auralis-social-media-summer-offer",
+        "title": "Auralis Summer Offer",
+        "category": "Social Media Design",
+        "image": "/images/gallery/auralis-social-media-summer-offer.png",
+        "alt": "Auralis summer offer social media design with a promotional brand-driven composition.",
+        "featured": false,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "banner-design",
+        "title": "Banner Design",
+        "category": "Graphic Design",
+        "image": "/images/gallery/banner-design.png",
+        "alt": "Banner design exploration with a bold visual hierarchy and promotional layout.",
+        "featured": false,
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "id": "biterbit-iso",
+        "title": "Biterbit Iso",
+        "category": "Brand Identity",
+        "image": "/images/gallery/biterbit-iso.png",
+        "alt": "Biterbit isotype design exploring a compact and memorable brand symbol.",
+        "featured": false,
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": "biterbit-isologo",
+        "title": "Biterbit Isologo",
+        "category": "Brand Identity",
+        "image": "/images/gallery/biterbit-isologo.png",
+        "alt": "Biterbit isologo design combining symbol and logotype in a cohesive identity study.",
+        "featured": false,
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": "cabuda-mock",
+        "title": "Cabuda Mock",
+        "category": "Product Mockup",
+        "image": "/images/gallery/cabuda-mock.png",
+        "alt": "Cabuda product mockup presenting interface concepts in a polished visual format.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "cabuda-mocks",
+        "title": "Cabuda Mocks",
+        "category": "Product Mockup",
+        "image": "/images/gallery/cabuda-mocks.png",
+        "alt": "Cabuda mockup set showing multiple interface explorations and product presentations.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "commonplace-landing",
+        "title": "Commonplace Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/commonplace-landing.png",
+        "alt": "Commonplace landing page design with a soft editorial style and product storytelling layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "commonplace-mocks",
+        "title": "Commonplace Mocks",
+        "category": "Product Mockup",
+        "image": "/images/gallery/commonplace-mocks.png",
+        "alt": "Commonplace product mockups showcasing interface concepts and a refined visual system.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "daedalus-branding",
+        "title": "Daedalus Branding",
+        "category": "Brand Identity",
+        "image": "/images/gallery/daedalus-branding.png",
+        "alt": "Daedalus branding exploration with visual identity assets and brand direction studies.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "data-graph",
+        "title": "Data Graph",
+        "category": "Data Visualization",
+        "image": "/images/gallery/data-graph.svg",
+        "alt": "Data graph visualization asset designed for an analytical dashboard or interface.",
+        "featured": false,
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "id": "deepcloud-isologo-design",
+        "title": "Deepcloud Isologo Design",
+        "category": "Brand Identity",
+        "image": "/images/gallery/deepcloud-isologo-design.png",
+        "alt": "Deepcloud isologo design exploring a cloud-inspired symbol and digital brand language.",
+        "featured": false,
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "id": "ecommerce-grid-layout",
+        "title": "Ecommerce Grid Layout",
+        "category": "E-commerce UI",
+        "image": "/images/gallery/ecommerce-grid-layout.png",
+        "alt": "E-commerce grid layout concept for a product browsing experience.",
+        "featured": false,
+        "width": 1440,
+        "height": 1800
+      },
+      {
+        "id": "ecommerce-landing",
+        "title": "Ecommerce Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/ecommerce-landing.png",
+        "alt": "E-commerce landing page design focused on product presentation and conversion flow.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "event-landing",
+        "title": "Event Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/event-landing.png",
+        "alt": "Event landing page design with a promotional layout and structured call-to-action flow.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "financial-markets-landing",
+        "title": "Financial Markets Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/financial-markets-landing.png",
+        "alt": "Financial markets landing page with a modern analytical and conversion-oriented layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "flowers",
+        "title": "Flowers",
+        "category": "Visual Exploration",
+        "image": "/images/gallery/flowers.png",
+        "alt": "Floral visual exploration with an organic composition and soft aesthetic treatment.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "generic-landing-02",
+        "title": "Generic Landing 02",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/generic-landing-02.png",
+        "alt": "Generic landing page exploration with a structured and modern conversion-focused layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "generic-landing",
+        "title": "Generic Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/generic-landing.png",
+        "alt": "Generic landing page concept with a clean product-driven visual hierarchy.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "internet-day-beta-landing",
+        "title": "Internet Day Beta Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/internet-day-beta-landing.png",
+        "alt": "Internet Day beta landing page design with a campaign-oriented interface and bold messaging.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "james-web-landing",
+        "title": "James Web Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/james-webb-landing.png",
+        "alt": "Web landing page design for James with a polished and modern promotional structure.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "landing-page",
+        "title": "Landing Page",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/landingPage.png",
+        "alt": "Landing page concept with a clean interface and focused content hierarchy.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "magazine-cover",
+        "title": "Magazine Cover",
+        "category": "Editorial Design",
+        "image": "/images/gallery/magazine-cover.jpg",
+        "alt": "Magazine cover design with an editorial composition and strong typographic hierarchy.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "magazine-mock-02",
+        "title": "Magazine Mock 02",
+        "category": "Editorial Mockup",
+        "image": "/images/gallery/magazine-mock-02.png",
+        "alt": "Magazine mockup presenting editorial pages in a polished print-inspired format.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "magazine-mock",
+        "title": "Magazine Mock",
+        "category": "Editorial Mockup",
+        "image": "/images/gallery/magazine-mock.png",
+        "alt": "Magazine mockup showing editorial layouts and print-inspired visual presentation.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "math-dashboard",
+        "title": "Math Dashboard",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/math-dashboard.png",
+        "alt": "Math dashboard interface with a structured data layout and modern UI treatment.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "mobile-app-mock",
+        "title": "Mobile App Mock",
+        "category": "Mobile UI",
+        "image": "/images/gallery/mobile-app-mock.png",
+        "alt": "Mobile app mockup showcasing interface screens in a polished product presentation.",
+        "featured": false,
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "id": "nasa-dashboard",
+        "title": "Nasa Dashboard",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/nasa-dashboard.png",
+        "alt": "NASA-inspired dashboard concept with a modern data-heavy interface layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "nothing-phone-2a-02",
+        "title": "Nothing Phone 2A 02",
+        "category": "Product Mockup",
+        "image": "/images/gallery/nothing-phone-2a-02.png",
+        "alt": "Nothing Phone 2A mockup exploration with a clean product-focused visual presentation.",
+        "featured": false,
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "id": "nothing-phone-2a",
+        "title": "Nothing Phone 2A",
+        "category": "Product Mockup",
+        "image": "/images/gallery/nothing-phone-2a.png",
+        "alt": "Nothing Phone 2A mockup with a refined product showcase and modern composition.",
+        "featured": false,
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "id": "organization-dashboard",
+        "title": "Organization Dashboard",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/organization-dashboard.png",
+        "alt": "Organization dashboard interface with a structured management-oriented layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      },
+      {
+        "id": "paper-mocks",
+        "title": "Paper Mocks",
+        "category": "Editorial Mockup",
+        "image": "/images/gallery/paper-mocks.png",
+        "alt": "Paper mockups presenting editorial or branding work in a print-inspired visual composition.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "scrapped-a4-design",
+        "title": "Scrapped A4 Design",
+        "category": "Editorial Design",
+        "image": "/images/gallery/scrapped-a4-design.png",
+        "alt": "Experimental scrapped A4 editorial design with a print-inspired composition study.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "scrapped-glow-landing",
+        "title": "Scrapped Glow Landing",
+        "category": "Landing Page Design",
+        "image": "/images/gallery/scrapped-glow-landing.png",
+        "alt": "Experimental glow-based landing page concept with a bold modern visual style.",
+        "featured": false,
+        "width": 1440,
+        "height": 2200
+      },
+      {
+        "id": "scraps-02",
+        "title": "Scraps 02",
+        "category": "Visual Exploration",
+        "image": "/images/gallery/scraps-02.png",
+        "alt": "Experimental visual scraps composition with layered graphic exploration.",
+        "featured": false,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "id": "silver-voluntarios-mock",
+        "title": "Silver Voluntarios Mock",
+        "category": "Product Mockup",
+        "image": "/images/gallery/silver-voluntarios-mock.png",
+        "alt": "Silver Voluntarios mockup presenting a polished product and interface concept.",
+        "featured": false,
+        "width": 1400,
+        "height": 1800
+      },
+      {
+        "id": "social-media-banner",
+        "title": "Social Media Banner",
+        "category": "Social Media Design",
+        "image": "/images/gallery/social-media-banner.png",
+        "alt": "Social media banner design with a clear promotional hierarchy and bold visual composition.",
+        "featured": false,
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "id": "social-media-dark-mode",
+        "title": "Social Media Dark Mode",
+        "category": "Social Media Design",
+        "image": "/images/gallery/social-media-dark-mode.png",
+        "alt": "Social media design exploration in dark mode with a modern visual treatment.",
+        "featured": false,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "social-media-design",
+        "title": "Social Media Design",
+        "category": "Social Media Design",
+        "image": "/images/gallery/social-media-design.png",
+        "alt": "Social media design exploration with a clean branded composition and content hierarchy.",
+        "featured": false,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "id": "sputnik-poster",
+        "title": "Sputnik Poster",
+        "category": "Poster Design",
+        "image": "/images/gallery/sputnik-poster.png",
+        "alt": "Sputnik poster design with a bold editorial composition and strong visual contrast.",
+        "featured": false,
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "id": "student-management-dashboard",
+        "title": "Student Management Dashboard",
+        "category": "Dashboard UI",
+        "image": "/images/gallery/student-management-dashboard.png",
+        "alt": "Student management dashboard with a structured administrative interface and clean data layout.",
+        "featured": false,
+        "width": 1440,
+        "height": 1024
+      }
+    ]
+  }
+}
