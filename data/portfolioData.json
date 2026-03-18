@@ -7,25 +7,25 @@
     {
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/hectorrivera222/",
-      "icon": "/images/icons/social/fa7-brands_linkedin.png",
+      "icon": "/images/icons/social/fa7-brands_linkedin.svg",
       "ariaLabel": "Visit Hector Rivera on LinkedIn"
     },
     {
       "platform": "Dribbble",
       "url": "https://dribbble.com/hectorrivera222",
-      "icon": "/images/icons/social/fa7-brands_dribbble-square.png",
+      "icon": "/images/icons/social/fa7-brands_dribbble-square.svg",
       "ariaLabel": "Visit Hector Rivera on Dribbble"
     },
     {
       "platform": "Behance",
       "url": "https://www.behance.net/hctorrivera3",
-      "icon": "/images/icons/social/fa7-brands_behance-square.png",
+      "icon": "/images/icons/social/fa7-brands_behance-square.svg",
       "ariaLabel": "Visit Hector Rivera on Behance"
     },
     {
       "platform": "GitHub",
       "url": "https://github.com/Hctor11",
-      "icon": "/images/icons/social/fa7-brands_github-square.png",
+      "icon": "/images/icons/social/fa7-brands_github-square.svg",
       "ariaLabel": "Visit Hector Rivera on GitHub"
     }
   ],
