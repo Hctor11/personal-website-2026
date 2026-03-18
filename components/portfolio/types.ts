@@ -32,8 +32,10 @@ export interface StackToolItem {
 
 export interface StackToolsSection {
   title: string;
-  developer: StackToolItem[];
-  designer: StackToolItem[];
+  frontend?: StackToolItem[];
+  developer?: StackToolItem[];
+  backend?: StackToolItem[];
+  designer?: StackToolItem[];
 }
 
 export interface DesignGalleryItem {

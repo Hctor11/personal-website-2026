@@ -1,31 +1,31 @@
 {
   "profile": {
     "name": "Hector Rivera",
-    "description": "Frontend developer and UI/UX designer focused on building clear, functional, and scalable digital products. Turning complex ideas into thoughtful interfaces with strong visual systems and solid frontend architecture."
+    "description": "Fullstack developer focused on building clear, functional, and scalable digital products. Turning complex ideas into thoughtful interfaces with strong visual systems and solid frontend architecture."
   },
   "socialLinks": [
     {
       "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/in/hector-rivera",
-      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/hectorrivera222/",
+      "icon": "/images/icons/social/fa7-brands_linkedin.png",
       "ariaLabel": "Visit Hector Rivera on LinkedIn"
     },
     {
       "platform": "Dribbble",
-      "url": "https://dribbble.com/hectorrivera",
-      "icon": "dribbble",
+      "url": "https://dribbble.com/hectorrivera222",
+      "icon": "/images/icons/social/fa7-brands_dribbble-square.png",
       "ariaLabel": "Visit Hector Rivera on Dribbble"
     },
     {
       "platform": "Behance",
-      "url": "https://www.behance.net/hectorrivera",
-      "icon": "behance",
+      "url": "https://www.behance.net/hctorrivera3",
+      "icon": "/images/icons/social/fa7-brands_behance-square.png",
       "ariaLabel": "Visit Hector Rivera on Behance"
     },
     {
       "platform": "GitHub",
-      "url": "https://github.com/hectorrivera",
-      "icon": "github",
+      "url": "https://github.com/Hctor11",
+      "icon": "/images/icons/social/fa7-brands_github-square.png",
       "ariaLabel": "Visit Hector Rivera on GitHub"
     }
   ],
@@ -47,42 +47,74 @@
   },
   "stackTools": {
     "title": "Stack & Tools",
-    "developer": [
+    "frontend": [
       {
         "name": "React Vite",
-        "icon": "react",
+        "icon": "/images/icons/frontend/akar-icons_react-fill.svg",
         "ariaLabel": "React Vite"
       },
       {
         "name": "TypeScript",
-        "icon": "typescript",
+        "icon": "/images/icons/frontend/lineicons_typescript.svg",
         "ariaLabel": "TypeScript"
       },
       {
         "name": "Next.js",
-        "icon": "nextjs",
+        "icon": "/images/icons/frontend/lineicons_nextjs.svg",
         "ariaLabel": "Next.js"
       },
       {
         "name": "Astro",
-        "icon": "nextjs",
+        "icon": "/images/icons/frontend/devicon-plain_astro.svg",
         "ariaLabel": "Astro"
       },
       {
         "name": "Tailwind CSS",
-        "icon": "tailwindcss",
+        "icon": "/images/icons/frontend/flowbite_tailwind-solid.svg",
         "ariaLabel": "Tailwind CSS"
       },
       {
-        "name": "Sass",
-        "icon": "tailwindcss",
-        "ariaLabel": "  Sass"
+        "name": "Tauri",
+        "icon": "/images/icons/frontend/devicon-plain_tauri.svg",
+        "ariaLabel": "Tauri"
+      }
+    ],
+    "backend": [
+      {
+        "name": "MCP",
+        "icon": "/images/icons/backend/codicon_mcp.svg",
+        "ariaLabel": "Model Context Protocol"
+      },
+      {
+        "name": "Express",
+        "icon": "/images/icons/backend/devicon_express.svg",
+        "ariaLabel": "Express"
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/icons/backend/flowbite_aws-solid.svg",
+        "ariaLabel": "Amazon Web Services"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "/images/icons/backend/lineicons_postgresql.svg",
+        "ariaLabel": "PostgreSQL"
+      },
+      {
+        "name": "Supabase",
+        "icon": "/images/icons/backend/ri_supabase-line.svg",
+        "ariaLabel": "Supabase"
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/icons/backend/simple-icons_mysql.svg",
+        "ariaLabel": "MySQL"
       }
     ],
     "designer": [
       {
         "name": "Figma",
-        "icon": "figma",
+        "icon": "/images/icons/design/basil_figma-solid.svg",
         "ariaLabel": "Figma"
       },
       {
@@ -92,23 +124,23 @@
       },
       {
         "name": "Framer",
-        "icon": "framer",
+        "icon": "/images/icons/design/gg_framer.svg",
         "ariaLabel": "Framer"
       },
       {
         "name": "Blender",
-        "icon": "framer",
+        "icon": "/images/icons/design/simple-icons_blender.svg",
         "ariaLabel": "Blender"
       },
       {
         "name": "Photoshop",
-        "icon": "framer",
+        "icon": "/images/icons/design/mage_photoshop.svg",
         "ariaLabel": "Photoshop"
       },
       {
-        "name": "Affinity",
-        "icon": "framer",
-        "ariaLabel": "Affinity"
+        "name": "After Effects",
+        "icon": "/images/icons/design/mage_after-effects.svg",
+        "ariaLabel": "After Effects"
       }
     ]
   },
@@ -150,12 +182,12 @@
     }
   ],
   "featuredStudyCase": {
-    "label": "Featured Study Case",
+    "label": "",
     "title": "Alexandria",
     "year": "2026",
     "category": "UI/UX, Frontend Development",
     "icon": "",
-    "href": "https://example.com/projects/alexandria",
+    "href": "https://github.com/Hctor11/alexandria",
     "imageAlt": "Alexandria project thumbnail.",
     "description": "Minimalist note-taking tool."
   },
@@ -173,7 +205,7 @@
       "year": "2025",
       "category": "UI/UX",
       "icon": "/images/portfolio/silver-voluntarios.svg",
-      "href": "https://example.com/projects/silver-voluntarios",
+      "href": "https://www.behance.net/gallery/222762935/Silver-Voluntarios-Volunteering-app-study-case",
       "imageAlt": "Silver Voluntarios project thumbnail."
     },
     {
@@ -199,7 +231,7 @@
       "year": "2025",
       "category": "UI/UX",
       "icon": "/images/portfolio/commonplace.svg",
-      "href": "https://example.com/projects/commonplace",
+      "href": "https://www.behance.net/gallery/205279291/Commonplace-UIUX-study-case",
       "imageAlt": "Commonplace project thumbnail."
     }
   ],

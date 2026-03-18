@@ -16,7 +16,7 @@ export function StudyCaseCard({
 }: StudyCaseCardProps) {
   return (
     <a
-      className={`${styles.surfaceCard} ${styles.studyCaseCard}`}
+      className={`${styles.surfaceCard} ${styles.studyCaseCard} ${styles.studyCaseCardFeatured}`}
       href={project.href}
       target={isExternalLink(project.href) ? "_blank" : undefined}
       rel={isExternalLink(project.href) ? "noreferrer" : undefined}

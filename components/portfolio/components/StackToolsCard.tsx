@@ -9,14 +9,19 @@ interface StackToolsCardProps {
 export function StackToolsCard({ stackTools }: StackToolsCardProps) {
   const groups = [
     {
-      id: "developer",
-      label: "Developer tools",
-      items: stackTools.developer,
+      id: "frontend",
+      label: "Frontend tools",
+      items: stackTools.frontend ?? stackTools.developer ?? [],
+    },
+    {
+      id: "backend",
+      label: "Backend tools",
+      items: stackTools.backend ?? [],
     },
     {
       id: "designer",
-      label: "Designer tools",
-      items: stackTools.designer,
+      label: "Design tools",
+      items: stackTools.designer ?? [],
     },
   ].filter((group) => group.items.length > 0);
 
