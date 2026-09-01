@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Hector Rivera",
+    "name": "Héctor Rivera",
     "description": "Fullstack developer focused on building clear, functional, and scalable digital products. Turning complex ideas into thoughtful interfaces with strong visual systems and solid frontend architecture."
   },
   "socialLinks": [
@@ -34,16 +34,6 @@
     "featuredProjectsTitle": "Featured Projects",
     "secondaryProjectsTitle": "More Projects",
     "openProjectLabel": "Open project"
-  },
-  "location": {
-    "label": "Based In",
-    "city": "Santa Ana",
-    "country": "El Salvador",
-    "coordinates": {
-      "lat": 13.9942,
-      "lng": -89.5597
-    },
-    "zoom": 12
   },
   "stackTools": {
     "title": "Stack & Tools",
@@ -182,7 +172,6 @@
     }
   ],
   "featuredStudyCase": {
-    "label": "",
     "title": "Alexandria",
     "year": "2026",
     "category": "UI/UX, Frontend Development",
@@ -246,8 +235,8 @@
         "image": "/images/gallery/a4-page-design.png",
         "alt": "Editorial A4 page design with a structured print-inspired composition.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 1413,
+        "height": 2000
       },
       {
         "id": "admin-dashboard-day",
@@ -256,8 +245,8 @@
         "image": "/images/gallery/admin-dashboard-day.png",
         "alt": "Admin dashboard interface in day mode with a clean data-focused layout.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 2000,
+        "height": 1206
       },
       {
         "id": "admin-dashboard-night",
@@ -266,8 +255,8 @@
         "image": "/images/gallery/admin-dashboard-night.png",
         "alt": "Admin dashboard interface in night mode with a modern dark data-focused layout.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 2000,
+        "height": 1206
       },
       {
         "id": "alexandria-bento-01",
@@ -276,8 +265,8 @@
         "image": "/images/gallery/alexandria-bento-01.png",
         "alt": "Alexandria portfolio bento layout with modular cards and a minimal editorial structure.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 1024,
+        "height": 768
       },
       {
         "id": "alexandria-beta-landing",
@@ -286,8 +275,8 @@
         "image": "/images/gallery/alexandria-beta-landing.png",
         "alt": "Alexandria beta landing page design with a polished product-focused visual system.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 2000,
+        "height": 1233
       },
       {
         "id": "alexandria-import-file-modal",
@@ -296,8 +285,8 @@
         "image": "/images/gallery/alexandria-import-file-modal.png",
         "alt": "Alexandria file import modal design for a structured product workflow.",
         "featured": false,
-        "width": 1200,
-        "height": 900
+        "width": 924,
+        "height": 846
       },
       {
         "id": "alexandria-settings-modal",
@@ -306,8 +295,8 @@
         "image": "/images/gallery/alexandria-settings-modal.png",
         "alt": "Alexandria settings modal design with clean controls and a minimal interface.",
         "featured": false,
-        "width": 1200,
-        "height": 900
+        "width": 942,
+        "height": 932
       },
       {
         "id": "auralis-social-media-summer-offer",
@@ -316,8 +305,8 @@
         "image": "/images/gallery/auralis-social-media-summer-offer.png",
         "alt": "Auralis summer offer social media design with a promotional brand-driven composition.",
         "featured": false,
-        "width": 1080,
-        "height": 1350
+        "width": 1024,
+        "height": 768
       },
       {
         "id": "banner-design",
@@ -326,8 +315,8 @@
         "image": "/images/gallery/banner-design.png",
         "alt": "Banner design exploration with a bold visual hierarchy and promotional layout.",
         "featured": false,
-        "width": 1600,
-        "height": 900
+        "width": 1920,
+        "height": 1080
       },
       {
         "id": "biterbit-iso",
@@ -336,8 +325,8 @@
         "image": "/images/gallery/biterbit-iso.png",
         "alt": "Biterbit isotype design exploring a compact and memorable brand symbol.",
         "featured": false,
-        "width": 1200,
-        "height": 1200
+        "width": 2000,
+        "height": 1500
       },
       {
         "id": "biterbit-isologo",
@@ -346,8 +335,8 @@
         "image": "/images/gallery/biterbit-isologo.png",
         "alt": "Biterbit isologo design combining symbol and logotype in a cohesive identity study.",
         "featured": false,
-        "width": 1200,
-        "height": 1200
+        "width": 2000,
+        "height": 1500
       },
       {
         "id": "cabuda-mock",
@@ -356,8 +345,8 @@
         "image": "/images/gallery/cabuda-mock.png",
         "alt": "Cabuda product mockup presenting interface concepts in a polished visual format.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 1920,
+        "height": 1254
       },
       {
         "id": "cabuda-mocks",
@@ -366,8 +355,8 @@
         "image": "/images/gallery/cabuda-mocks.png",
         "alt": "Cabuda mockup set showing multiple interface explorations and product presentations.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 2000,
+        "height": 1500
       },
       {
         "id": "commonplace-landing",
@@ -376,8 +365,8 @@
         "image": "/images/gallery/commonplace-landing.png",
         "alt": "Commonplace landing page design with a soft editorial style and product storytelling layout.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 1240,
+        "height": 834
       },
       {
         "id": "commonplace-mocks",
@@ -386,8 +375,8 @@
         "image": "/images/gallery/commonplace-mocks.png",
         "alt": "Commonplace product mockups showcasing interface concepts and a refined visual system.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 1024,
+        "height": 656
       },
       {
         "id": "daedalus-branding",
@@ -396,8 +385,8 @@
         "image": "/images/gallery/daedalus-branding.png",
         "alt": "Daedalus branding exploration with visual identity assets and brand direction studies.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 1024,
+        "height": 768
       },
       {
         "id": "data-graph",
@@ -416,8 +405,8 @@
         "image": "/images/gallery/deepcloud-isologo-design.png",
         "alt": "Deepcloud isologo design exploring a cloud-inspired symbol and digital brand language.",
         "featured": false,
-        "width": 1200,
-        "height": 1200
+        "width": 2000,
+        "height": 1500
       },
       {
         "id": "ecommerce-grid-layout",
@@ -426,8 +415,8 @@
         "image": "/images/gallery/ecommerce-grid-layout.png",
         "alt": "E-commerce grid layout concept for a product browsing experience.",
         "featured": false,
-        "width": 1440,
-        "height": 1800
+        "width": 1121,
+        "height": 2000
       },
       {
         "id": "ecommerce-landing",
@@ -436,8 +425,8 @@
         "image": "/images/gallery/ecommerce-landing.png",
         "alt": "E-commerce landing page design focused on product presentation and conversion flow.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 757,
+        "height": 2000
       },
       {
         "id": "event-landing",
@@ -446,8 +435,8 @@
         "image": "/images/gallery/event-landing.png",
         "alt": "Event landing page design with a promotional layout and structured call-to-action flow.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 1125,
+        "height": 2000
       },
       {
         "id": "financial-markets-landing",
@@ -456,8 +445,8 @@
         "image": "/images/gallery/financial-markets-landing.png",
         "alt": "Financial markets landing page with a modern analytical and conversion-oriented layout.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 1920,
+        "height": 1694
       },
       {
         "id": "flowers",
@@ -466,8 +455,8 @@
         "image": "/images/gallery/flowers.png",
         "alt": "Floral visual exploration with an organic composition and soft aesthetic treatment.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 946,
+        "height": 2000
       },
       {
         "id": "generic-landing-02",
@@ -476,8 +465,8 @@
         "image": "/images/gallery/generic-landing-02.png",
         "alt": "Generic landing page exploration with a structured and modern conversion-focused layout.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 1920,
+        "height": 1365
       },
       {
         "id": "generic-landing",
@@ -486,8 +475,8 @@
         "image": "/images/gallery/generic-landing.png",
         "alt": "Generic landing page concept with a clean product-driven visual hierarchy.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 2000,
+        "height": 1422
       },
       {
         "id": "internet-day-beta-landing",
@@ -496,8 +485,8 @@
         "image": "/images/gallery/internet-day-beta-landing.png",
         "alt": "Internet Day beta landing page design with a campaign-oriented interface and bold messaging.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 696,
+        "height": 2000
       },
       {
         "id": "james-web-landing",
@@ -506,8 +495,8 @@
         "image": "/images/gallery/james-webb-landing.png",
         "alt": "Web landing page design for James with a polished and modern promotional structure.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 573,
+        "height": 2000
       },
       {
         "id": "landing-page",
@@ -516,8 +505,8 @@
         "image": "/images/gallery/landingPage.png",
         "alt": "Landing page concept with a clean interface and focused content hierarchy.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 1920,
+        "height": 1317
       },
       {
         "id": "magazine-cover",
@@ -526,8 +515,8 @@
         "image": "/images/gallery/magazine-cover.jpg",
         "alt": "Magazine cover design with an editorial composition and strong typographic hierarchy.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 1413,
+        "height": 2000
       },
       {
         "id": "magazine-mock-02",
@@ -536,8 +525,8 @@
         "image": "/images/gallery/magazine-mock-02.png",
         "alt": "Magazine mockup presenting editorial pages in a polished print-inspired format.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 2000,
+        "height": 1333
       },
       {
         "id": "magazine-mock",
@@ -546,8 +535,8 @@
         "image": "/images/gallery/magazine-mock.png",
         "alt": "Magazine mockup showing editorial layouts and print-inspired visual presentation.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 2000,
+        "height": 1333
       },
       {
         "id": "math-dashboard",
@@ -557,7 +546,7 @@
         "alt": "Math dashboard interface with a structured data layout and modern UI treatment.",
         "featured": false,
         "width": 1440,
-        "height": 1024
+        "height": 940
       },
       {
         "id": "mobile-app-mock",
@@ -566,8 +555,8 @@
         "image": "/images/gallery/mobile-app-mock.png",
         "alt": "Mobile app mockup showcasing interface screens in a polished product presentation.",
         "featured": false,
-        "width": 1200,
-        "height": 1800
+        "width": 2000,
+        "height": 1333
       },
       {
         "id": "nasa-dashboard",
@@ -576,8 +565,8 @@
         "image": "/images/gallery/nasa-dashboard.png",
         "alt": "NASA-inspired dashboard concept with a modern data-heavy interface layout.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 2000,
+        "height": 1736
       },
       {
         "id": "nothing-phone-2a-02",
@@ -586,8 +575,8 @@
         "image": "/images/gallery/nothing-phone-2a-02.png",
         "alt": "Nothing Phone 2A mockup exploration with a clean product-focused visual presentation.",
         "featured": false,
-        "width": 1200,
-        "height": 1800
+        "width": 1500,
+        "height": 1324
       },
       {
         "id": "nothing-phone-2a",
@@ -596,8 +585,8 @@
         "image": "/images/gallery/nothing-phone-2a.png",
         "alt": "Nothing Phone 2A mockup with a refined product showcase and modern composition.",
         "featured": false,
-        "width": 1200,
-        "height": 1800
+        "width": 1497,
+        "height": 1498
       },
       {
         "id": "organization-dashboard",
@@ -606,8 +595,8 @@
         "image": "/images/gallery/organization-dashboard.png",
         "alt": "Organization dashboard interface with a structured management-oriented layout.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 1920,
+        "height": 1139
       },
       {
         "id": "paper-mocks",
@@ -616,8 +605,8 @@
         "image": "/images/gallery/paper-mocks.png",
         "alt": "Paper mockups presenting editorial or branding work in a print-inspired visual composition.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 2000,
+        "height": 1500
       },
       {
         "id": "scrapped-a4-design",
@@ -626,8 +615,8 @@
         "image": "/images/gallery/scrapped-a4-design.png",
         "alt": "Experimental scrapped A4 editorial design with a print-inspired composition study.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 1413,
+        "height": 2000
       },
       {
         "id": "scrapped-glow-landing",
@@ -636,8 +625,8 @@
         "image": "/images/gallery/scrapped-glow-landing.png",
         "alt": "Experimental glow-based landing page concept with a bold modern visual style.",
         "featured": false,
-        "width": 1440,
-        "height": 2200
+        "width": 2000,
+        "height": 1422
       },
       {
         "id": "scraps-02",
@@ -646,8 +635,8 @@
         "image": "/images/gallery/scraps-02.png",
         "alt": "Experimental visual scraps composition with layered graphic exploration.",
         "featured": false,
-        "width": 1200,
-        "height": 1600
+        "width": 2000,
+        "height": 1284
       },
       {
         "id": "silver-voluntarios-mock",
@@ -656,8 +645,8 @@
         "image": "/images/gallery/silver-voluntarios-mock.png",
         "alt": "Silver Voluntarios mockup presenting a polished product and interface concept.",
         "featured": false,
-        "width": 1400,
-        "height": 1800
+        "width": 1883,
+        "height": 1034
       },
       {
         "id": "social-media-banner",
@@ -666,8 +655,8 @@
         "image": "/images/gallery/social-media-banner.png",
         "alt": "Social media banner design with a clear promotional hierarchy and bold visual composition.",
         "featured": false,
-        "width": 1600,
-        "height": 900
+        "width": 2000,
+        "height": 761
       },
       {
         "id": "social-media-dark-mode",
@@ -676,8 +665,8 @@
         "image": "/images/gallery/social-media-dark-mode.png",
         "alt": "Social media design exploration in dark mode with a modern visual treatment.",
         "featured": false,
-        "width": 1080,
-        "height": 1350
+        "width": 2000,
+        "height": 1125
       },
       {
         "id": "social-media-design",
@@ -686,8 +675,8 @@
         "image": "/images/gallery/social-media-design.png",
         "alt": "Social media design exploration with a clean branded composition and content hierarchy.",
         "featured": false,
-        "width": 1080,
-        "height": 1350
+        "width": 1920,
+        "height": 1080
       },
       {
         "id": "sputnik-poster",
@@ -696,8 +685,8 @@
         "image": "/images/gallery/sputnik-poster.png",
         "alt": "Sputnik poster design with a bold editorial composition and strong visual contrast.",
         "featured": false,
-        "width": 1200,
-        "height": 1800
+        "width": 1920,
+        "height": 1354
       },
       {
         "id": "student-management-dashboard",
@@ -706,8 +695,8 @@
         "image": "/images/gallery/student-management-dashboard.png",
         "alt": "Student management dashboard with a structured administrative interface and clean data layout.",
         "featured": false,
-        "width": 1440,
-        "height": 1024
+        "width": 1920,
+        "height": 1080
       }
     ]
   }

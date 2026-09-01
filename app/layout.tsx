@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import portfolioData from "@/data/portfolioData.json";
-import type { PortfolioData } from "@/components/portfolio/types";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -14,11 +12,23 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const portfolioContent: PortfolioData = portfolioData;
-
 export const metadata: Metadata = {
-  title: portfolioContent.profile.name,
-  description: portfolioContent.profile.description,
+  // TODO: confirm domain
+  metadataBase: new URL("https://hectorrivera.dev"),
+  title: "Héctor Rivera — Frontend Developer",
+  description:
+    "Frontend developer building production React and Next.js applications — microfrontend architecture, design systems, and CI/CD delivery.",
+  openGraph: {
+    title: "Héctor Rivera — Frontend Developer",
+    description: "React & TypeScript. Microfrontends, design systems, CI/CD.",
+    url: "/",
+    siteName: "Héctor Rivera",
+    locale: "en_US",
+    type: "website",
+    images: [{ url: "/og.png", width: 1200, height: 630 }],
+  },
+  twitter: { card: "summary_large_image" },
+  alternates: { canonical: "/" },
 };
 
 export default function RootLayout({

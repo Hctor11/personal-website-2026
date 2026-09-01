@@ -10,19 +10,6 @@ export interface SocialLinkItem {
   ariaLabel: string;
 }
 
-export interface PortfolioCoordinates {
-  lat: number;
-  lng: number;
-}
-
-export interface PortfolioLocation {
-  label: string;
-  city: string;
-  country: string;
-  coordinates: PortfolioCoordinates;
-  zoom: number;
-}
-
 export interface StackToolItem {
   name: string;
   icon: string;
@@ -74,7 +61,6 @@ export interface ProjectItem {
 }
 
 export interface FeaturedStudyCase extends ProjectItem {
-  label: string;
   description?: string;
 }
 
@@ -90,7 +76,6 @@ export interface PortfolioData {
   socialLinks: SocialLinkItem[];
   sections: PortfolioSectionLabels;
   experience: ExperienceEntry[];
-  location: PortfolioLocation;
   stackTools: StackToolsSection;
   featuredStudyCase: FeaturedStudyCase;
   featuredProjects: ProjectItem[];

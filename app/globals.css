@@ -2,6 +2,17 @@
   color-scheme: light;
   --app-background: #f4f1ec;
   --app-foreground: #151515;
+
+  --fs-display: clamp(3rem, 8vw, 5rem);
+  --fs-h2: 1.35rem;
+  --fs-h3: 1rem;
+  --fs-body: clamp(0.98rem, 1.25vw, 1.05rem);
+  --fs-meta: 0.86rem;
+  --fs-micro: 0.78rem;
+
+  --text-primary: #151515;
+  --text-secondary: #59524c;
+  --text-muted: #6d665f;
 }
 
 *,

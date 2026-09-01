@@ -1,6 +1,5 @@
 import { DesignGallery } from "@/components/portfolio/components/DesignGallery";
 import { ExperienceCard } from "@/components/portfolio/components/ExperienceCard";
-import { LocationCard } from "@/components/portfolio/components/LocationCard";
 import { ProjectCard } from "@/components/portfolio/components/ProjectCard";
 import { SocialLinks } from "@/components/portfolio/components/SocialLinks";
 import { StackToolsCard } from "@/components/portfolio/components/StackToolsCard";
@@ -20,7 +19,6 @@ export default function PortfolioSection({
     socialLinks,
     sections,
     experience,
-    location,
     stackTools,
     featuredStudyCase,
     featuredProjects,
@@ -38,6 +36,7 @@ export default function PortfolioSection({
           <SocialLinks links={socialLinks} />
         </div>
         <p className={styles.heroDescription}>{profile.description}</p>
+        <p className={styles.heroMeta}>El Salvador · GMT−6 · Open to remote</p>
       </div>
 
       <div className={styles.layout}>
@@ -49,7 +48,6 @@ export default function PortfolioSection({
         </div>
 
         <div className={`${styles.column} ${styles.columnMiddle}`}>
-          <LocationCard location={location} />
           <StackToolsCard stackTools={stackTools} />
 
           <section
